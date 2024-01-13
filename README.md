@@ -1,0 +1,2 @@
+# Statistical-Analysis-and-Visualization-in-Applied-Statistics
+This project explores various statistical concepts and their practical applications in Python. It includes working with normal distributions, statistical visualization, independent sum of probability measures, and understanding sample mean processes. The focus is on applying theoretical knowledge to practical scenarios using Python libraries.
